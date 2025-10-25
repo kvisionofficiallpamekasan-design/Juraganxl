@@ -1,0 +1,15 @@
+{
+  "name": "suplier-xl",
+  "version": "1.0.0",
+  "description": "Bot Telegram Suplier XL - menggunakan Telegraf + Firebase Realtime Database",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "firebase": "^11.0.0",
+    "telegraf": "^4.15.3"
+  }
+}
